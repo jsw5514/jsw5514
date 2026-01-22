@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi Welcome, i'm Seong Wook 😄
+
+Always ready to take on new challenges and grow through continuous self-development. <br>
+Passionate about learning, improving, and turning ideas into real-world solutions.
+
+![jsw5514's github stats](https://github-readme-stats.vercel.app/api?username=jsw5514&show_icons=true)
+[![jsw5514's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jsw5514&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jsw5514)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fkdlajwm1022)](https://solved.ac/fkdlajwm1022/)
 
 <!--
 **jsw5514/jsw5514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
